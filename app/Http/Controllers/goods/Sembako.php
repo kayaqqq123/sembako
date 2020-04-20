@@ -74,7 +74,7 @@ class sembako extends Controller
                 }
                 else{
                     $sembako['message'] = "barang ini akan kadaluarsa $diff_in_days hari lagi";
-                    $sembako['bg_alert'] = "btn-danger";
+                    $sembako['bg_alert'] = "btn-info";
                 }
             }else{
                 $sembako['message'] = "barang belum kadaluarsa";

@@ -21,10 +21,11 @@
                                 <tr>
                                     <th>No</th>
                                     <th>Nama Barang</th>
-                                    <th>Stok Barang</th>
+                                    <th>Stok Barang(/Kg)</th>
                                     <th>Tanggal Input</th>
                                     <th>Tanggal Expired</th>
                                     <th>Message</th>
+                                    <th>Aksi</th>
                                 </tr>
                             </thead>
                             <tbody>
